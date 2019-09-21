@@ -1,13 +1,16 @@
 # Viktar Zanimonets
+
  web developer
 
 * phone: *+375 (297) 500967*
 * email: *vzanimonets@gmail.com*
 
 ## Summary:
+
 Web developer with hands-on experience with variety of javascript and CSS libraries is looking for opportunity. I want to gain new experience and improve my skills in software development. I’m ready to work hard and learn new things. I’m reliable and hardworking.
 
 ## Skills:
+
 * HTML, CSS, SASS
 * javascript(es5/es6)
 * veriety of js and css libraries including  jQuery, ReactJS
@@ -19,6 +22,7 @@ Web developer with hands-on experience with variety of javascript and CSS librar
 [git](https://github.com/vzanimonets)
 
 ## Work history:
+
 | Date          | Company | Position |
 | ------------- | ------- | -------- |
 | Aug, 2018 - Jan, 2019   | [ONTravelSolutions](www.ontravelsolutions.com) | *frontend developer* |
