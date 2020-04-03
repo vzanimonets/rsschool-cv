@@ -32,7 +32,11 @@ Web developer with hands-on experience with variety of javascript and CSS librar
 ## Education:
 
  *BSUIR*, *Belurussian State University of Informatic and Radioelectronics*  
- **Additionally:** Сourse &laquo;*front-end development*&raquo; [myfeedom](https://myfreedom.by).
+## Additionally:
+
+ Сourse &laquo;*front-end development*&raquo; [myfeedom](https://myfreedom.by).
+
+ RSS React 2020 [Certificate](https://app.rs.school/certificate/dcocot68)
 
 ## English level and expiriance:
 
