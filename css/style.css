@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0 auto;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px;
+  line-height: 1.5;
+  color: #24292e;
+  background-color: #fff;
+  padding: 0 1em;
+  max-width: 1024px;
+}
+h1 {
+  font-size: 2em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #eaecef;
+}
+h2 {
+  margin-top: 24px;
+  margin-bottom: 1em;
+  font-weight: 600;
+  line-height: 1.25;
+  padding-bottom: 0.3em;
+  font-size: 1.5em;
+  border-bottom: 1px solid #eaecef;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+.general figcaption {
+  font-style: italic;
+}
+.general address {
+  font-style: normal;
+}
+.history table {
+  border-spacing: 0;
+  border-collapse: collapse;
+  vertical-align: middle;
+}
+.history tr {
+  border-top: 1px solid #c6cbd1;
+}
+.history tr:nth-child(2n) {
+  background-color: #f6f8fa;
+}
+.history td,
+.history th {
+  padding: 6px 13px;
+  border: 1px solid #dfe2e5;
+}
+.history th {
+  font-weight: 600;
+}
